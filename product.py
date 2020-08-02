@@ -14,7 +14,7 @@ app = Flask(__name__)
 def hello_world(): 
 	return """[{
 	"name": "WM12345",
-	"detail": "washingmachine 2",
+	"detail": "washingmachine 20",
 	"price": "9999"
 },
 {
